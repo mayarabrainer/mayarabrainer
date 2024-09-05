@@ -5,7 +5,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayarabrainer&show_icons=true&locale=en&layout=compact" alt="mayarabrainer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayarabrainer&" alt="mayarabrainer" /></p>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
