@@ -1,6 +1,6 @@
 <h1 align="center">Olá!👋</h1>
 <br>
-<h3 align="center">Sou apaixonada por desenvolvimento web, com o principal objetivo de transformar ideias em realidade através das linhas de código.</h3>
+<h3 align="center">Sou apaixonada por desenvolvimento de software, com o principal objetivo de transformar ideias em realidade através das linhas de código.</h3>
 
 <br>
 <br>
